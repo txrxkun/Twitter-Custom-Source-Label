@@ -1,3 +1,4 @@
+import sys, os, time
 import tweepy
 keys = dict(
 consumer_key='PUT_YOUR_CONSUMER_KEY_HERE',
